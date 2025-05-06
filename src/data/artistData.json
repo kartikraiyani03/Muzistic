@@ -1,0 +1,711 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "artistName": "Marshmello",
+      "poster": "/songImg/a1.jpg",
+      "monthlyListeners": 5800000,
+      "genre": "Electronic",
+      "yearsActive": "2015–present",
+      "songsPublished": 45,
+      "popularSongs": [
+        {
+          "id": 1,
+          "songName": "Happier",
+          "numberOfListens": 15000000,
+          "photo": "/songImg/happier.jpg"
+        },
+        {
+          "id": 2,
+          "songName": "Alone",
+          "numberOfListens": 12000000,
+          "photo": "/songImg/alonem.jpg"
+        },
+        {
+          "id": 3,
+          "songName": "Friends",
+          "numberOfListens": 10000000,
+          "photo": "/songImg/friends.jpg"
+        },
+        {
+          "id": 4,
+          "songName": "Silence",
+          "numberOfListens": 9500000,
+          "photo": "/songImg/silence.jpg"
+        }
+      ],
+      "albums": [
+        {
+          "id": 5,
+          "name": "Joytime",
+          "photo": "/songImg/marsh1.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Joytime II",
+          "photo": "/songImg/marsh2.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Joytime IV",
+          "photo": "/songImg/marsh3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "artistName": "Alan Walker",
+      "poster": "/songImg/a2.jpg",
+      "monthlyListeners": 6200000,
+      "genre": "EDM",
+      "yearsActive": "2012–present",
+      "songsPublished": 40,
+      "popularSongs": [
+        {
+          "id": 1,
+          "songName": "Faded",
+          "numberOfListens": 2000000,
+          "photo": "/songImg/faded.jpg"
+        },
+        {
+          "id": 2,
+          "songName": "Alone",
+          "numberOfListens": 1300000,
+          "photo": "/songImg/alone.jpg"
+        },
+        {
+          "id": 3,
+          "songName": "Darkside",
+          "numberOfListens": 1100000,
+          "photo": "/songImg/darkside.jpg"
+        },
+        {
+          "id": 4,
+          "songName": "On My Way",
+          "numberOfListens": 1000000,
+          "photo": "/songImg/onmyway.jpg"
+        }
+      ],
+      "albums": [
+        {
+          "id": 5,
+          "name": "Different World",
+          "photo": "/songImg/alan1.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Walkerverse Part I",
+          "photo": "/songImg/alan2.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Walkerverse Part I",
+          "photo": "/songImg/alan3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "artistName": "Justin Bieber",
+      "poster": "/songImg/a3.jpg",
+      "monthlyListeners": 8000000,
+      "genre": "Pop, R&B",
+      "yearsActive": "2007–present",
+      "songsPublished": 130,
+      "popularSongs": [
+        {
+          "id": 1,
+          "songName": "Peaches",
+          "numberOfListens": 14000000,
+          "photo": "/songImg/peaches.jpg"
+        },
+        {
+          "id": 2,
+          "songName": "Baby",
+          "numberOfListens": 25000000,
+          "photo": "/songImg/baby.jpg"
+        },
+        {
+          "id": 3,
+          "songName": "Sorry",
+          "numberOfListens": 18000000,
+          "photo": "/songImg/sorry.jpg"
+        },
+        {
+          "id": 4,
+          "songName": "Love Yourself",
+          "numberOfListens": 16000000,
+          "photo": "/songImg/loveyourself.jpg"
+        }
+      ],
+      "albums": [
+        {
+          "id": 5,
+          "name": "Purpose",
+          "photo": "/songImg/justin1.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Changes",
+          "photo": "/songImg/justin2.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Justice",
+          "photo": "/songImg/justin3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "artistName": "Salena Gomez",
+      "poster": "/songImg/a4.jpg",
+      "monthlyListeners": 7000000,
+      "genre": "Pop",
+      "yearsActive": "2008–present",
+      "songsPublished": 95,
+      "popularSongs": [
+        {
+          "id": 1,
+          "songName": "Lose You to Love Me",
+          "numberOfListens": 130000,
+          "photo": "/songImg/lose.jpg"
+        },
+        {
+          "id": 2,
+          "songName": "Bad Liar",
+          "numberOfListens": 110000,
+          "photo": "/songImg/bad.jpg"
+        },
+        {
+          "id": 3,
+          "songName": "Wolves",
+          "numberOfListens": 12000000,
+          "photo": "/songImg/wolves.jpg"
+        },
+        {
+          "id": 4,
+          "songName": "Back to You",
+          "numberOfListens": 10500000,
+          "photo": "/songImg/back.jpg"
+        }
+      ],
+      "albums": [
+        {
+          "id": 5,
+          "name": "Revival",
+          "photo": "/songImg/salena1.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Rare",
+          "photo": "/songImg/salena2.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Revivalation",
+          "photo": "/songImg/salena3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "artistName": "DJ Snake",
+      "poster": "/songImg/a5.jpg",
+      "monthlyListeners": 4500000,
+      "genre": "Electronic, Hip-Hop",
+      "yearsActive": "2011–present",
+      "songsPublished": 55,
+      "popularSongs": [
+        {
+          "id": 1,
+          "songName": "Taki Taki",
+          "numberOfListens": 19000000,
+          "photo": "/songImg/takitaki.jpg"
+        },
+        {
+          "id": 2,
+          "songName": "Turn Down for What",
+          "numberOfListens": 12000000,
+          "photo": "/songImg/turn.jpg"
+        },
+        {
+          "id": 3,
+          "songName": "Let Me Love You",
+          "numberOfListens": 17000000,
+          "photo": "/songImg/let.jpg"
+        },
+        {
+          "id": 4,
+          "songName": "Middle",
+          "numberOfListens": 11000000,
+          "photo": "/songImg/mid.jpg"
+        }
+      ],
+      "albums": [
+        {
+          "id": 5,
+          "name": "Encore",
+          "photo": "/songImg/dj1.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Carte Blanche",
+          "photo": "/songImg/dj2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "artistName": "Adele",
+      "poster": "/songImg/a6.jpg",
+      "monthlyListeners": 6500000,
+      "genre": "Pop, Soul",
+      "yearsActive": "2008–present",
+      "songsPublished": 30,
+      "popularSongs": [
+        {
+          "id": 1,
+          "songName": "Hello",
+          "numberOfListens": 25000000,
+          "photo": "/songImg/hello.jpg"
+        },
+        {
+          "id": 2,
+          "songName": "Someone Like You",
+          "numberOfListens": 18000000,
+          "photo": "/songImg/some.jpg"
+        },
+        {
+          "id": 3,
+          "songName": "Rolling in the Deep",
+          "numberOfListens": 20000000,
+          "photo": "/songImg/roll.jpg"
+        },
+        {
+          "id": 4,
+          "songName": "Set Fire to the Rain",
+          "numberOfListens": 17000000,
+          "photo": "/songImg/set.jpg"
+        }
+      ],
+      "albums": [
+        {
+          "id": 5,
+          "name": "21",
+          "photo": "/songImg/adele1.jpg"
+        },
+        {
+          "id": 6,
+          "name": "30",
+          "photo": "/songImg/adele2.jpg"
+        },
+        {
+          "id": 7,
+          "name": "25",
+          "photo": "/songImg/adele3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "artistName": "Ed Sheeran",
+      "poster": "/songImg/a7.jpg",
+      "monthlyListeners": 7800000,
+      "genre": "Pop, Folk-Pop",
+      "yearsActive": "2011–present",
+      "songsPublished": 80,
+      "popularSongs": [
+        {
+          "id": 1,
+          "songName": "Shape of You",
+          "numberOfListens": 30000000,
+          "photo": "/songImg/shape.jpg"
+        },
+        {
+          "id": 2,
+          "songName": "Perfect",
+          "numberOfListens": 25000000,
+          "photo": "/songImg/ed1.jpg"
+        },
+        {
+          "id": 3,
+          "songName": "Thinking Out Loud",
+          "numberOfListens": 23000000,
+          "photo": "/songImg/think.jpg"
+        },
+        {
+          "id": 4,
+          "songName": "Castle on the Hill",
+          "numberOfListens": 12000000,
+          "photo": "/songImg/castel.jpg"
+        }
+      ],
+      "albums": [
+        {
+          "id": 5,
+          "name": "Divide",
+          "photo": "/songImg/ed1.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Equals",
+          "photo": "/songImg/ed2.jpg"
+        },
+        {
+          "id": 7,
+          "name": "X",
+          "photo": "/songImg/ed3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "artistName": "Taylor Swift",
+      "poster": "/songImg/a8.jpg",
+      "monthlyListeners": 8500000,
+      "genre": "Pop, Country",
+      "yearsActive": "2006–present",
+      "songsPublished": 200,
+      "popularSongs": [
+        {
+          "id": 1,
+          "songName": "Blank Space",
+          "numberOfListens": 18000000,
+          "photo": "/songImg/blank.jpg"
+        },
+        {
+          "id": 2,
+          "songName": "Love Story",
+          "numberOfListens": 15000000,
+          "photo": "/songImg/love.jpg"
+        },
+        {
+          "id": 3,
+          "songName": "Shake It Off",
+          "numberOfListens": 22000000,
+          "photo": "/songImg/shake.jpg"
+        },
+        {
+          "id": 4,
+          "songName": "You Belong With Me",
+          "numberOfListens": 16000000,
+          "photo": "/songImg/you.jpg"
+        }
+      ],
+      "albums": [
+        {
+          "id": 5,
+          "name": "1989",
+          "photo": "/songImg/tylor1.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Reputation",
+          "photo": "/songImg/tylor2.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Midnights",
+          "photo": "/songImg/tylor3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "artistName": "The Weeknd",
+      "poster": "/songImg/a9.jpg",
+      "monthlyListeners": 9200000,
+      "genre": "R&B, Pop",
+      "yearsActive": "2010–present",
+      "songsPublished": 65,
+      "popularSongs": [
+        {
+          "id": 1,
+          "songName": "Blinding Lights",
+          "numberOfListens": 30000000,
+          "photo": "/songImg/week1.jpg"
+        },
+        {
+          "id": 2,
+          "songName": "Starboy",
+          "numberOfListens": 22000000,
+          "photo": "/songImg/week2.jpg"
+        },
+        {
+          "id": 3,
+          "songName": "The Hills",
+          "numberOfListens": 17000000,
+          "photo": "/songImg/hill.jpg"
+        },
+        {
+          "id": 4,
+          "songName": "I Feel It Coming",
+          "numberOfListens": 19000000,
+          "photo": "/songImg/it.jpeg"
+        }
+      ],
+      "albums": [
+        {
+          "id": 5,
+          "name": "After Hours",
+          "photo": "/songImg/week1.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Starboy",
+          "photo": "/songImg/week2.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Hurry Up Tomorrow",
+          "photo": "/songImg/week3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "artistName": "Beyoncé",
+      "poster": "/songImg/a10.jpg",
+      "monthlyListeners": 7100000,
+      "genre": "R&B, Pop",
+      "yearsActive": "1997–present",
+      "songsPublished": 90,
+      "popularSongs": [
+        {
+          "id": 1,
+          "songName": "Halo",
+          "numberOfListens": 15000000,
+          "photo": "/songImg/halo.jpg"
+        },
+        {
+          "id": 2,
+          "songName": "Crazy in Love",
+          "numberOfListens": 18000000,
+          "photo": "/songImg/crazy.jpg"
+        },
+        {
+          "id": 3,
+          "songName": "Single Ladies",
+          "numberOfListens": 17000000,
+          "photo": "/songImg/single.jpg"
+        },
+        {
+          "id": 4,
+          "songName": "Drunk in Love",
+          "numberOfListens": 14000000,
+          "photo": "/songImg/drunk.jpg"
+        }
+      ],
+      "albums": [
+        {
+          "id": 5,
+          "name": "B'Day",
+          "photo": "/songImg/be1.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Lemonade",
+          "photo": "/songImg/be2.jpg"
+        },
+        {
+          "id": 7,
+          "name": "I Am... Sasha Fierce",
+          "photo": "/songImg/be3.jpg"
+        }
+      ]
+    },
+    {
+      "artistName": "Post Malone",
+      "poster": "/songImg/a11.jpg",
+      "monthlyListeners": 7500000,
+      "genre": "Hip-Hop, Pop",
+      "yearsActive": "2015–present",
+      "songsPublished": 70,
+      "popularSongs": [
+        {
+          "songName": "Sunflower",
+          "numberOfListens": 12000000,
+          "photo": "/songImg/sun.jpg",
+          "id": 1
+        },
+        {
+          "songName": "Circles",
+          "numberOfListens": 8000000,
+          "photo": "/songImg/post2.jpg",
+          "id": 2
+        },
+        {
+          "songName": "Rockstar",
+          "numberOfListens": 10000000,
+          "photo": "/songImg/rock.jpg",
+          "id": 3
+        },
+        {
+          "songName": "Congratulations",
+          "numberOfListens": 6000000,
+          "photo": "/songImg/co.jpg",
+          "id": 4
+        }
+      ],
+      "albums": [
+        {
+          "id": 5,
+          "name": "Beerbongs & Bentleys",
+          "photo": "/songImg/post1.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Hollywood's Bleeding",
+          "photo": "/songImg/post2.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Austine",
+          "photo": "/songImg/post3.jpg"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "artistName": "David Guetta",
+      "poster": "/songImg/a12.jpg",
+      "monthlyListeners": 5500000,
+      "genre": "EDM",
+      "yearsActive": "1986–present",
+      "songsPublished": 200,
+      "popularSongs": [
+        {
+          "songName": "Titanium",
+          "numberOfListens": 15000000,
+          "photo": "/songImg/titanium.jpg",
+          "id": 1
+        },
+        {
+          "songName": "Hey Mama",
+          "numberOfListens": 7000000,
+          "photo": "/songImg/david1.jpg",
+          "id": 2
+        },
+        {
+          "songName": "Memories",
+          "numberOfListens": 9000000,
+          "photo": "/songImg/memories.jpg",
+          "id": 3
+        },
+        {
+          "songName": "Love Don't Let Me Go",
+          "numberOfListens": 5000000,
+          "photo": "/songImg/lovedon't.jpg",
+          "id": 4
+        }
+      ],
+      "albums": [
+        {
+          "id": 5,
+          "name": "Listen",
+          "photo": "/songImg/david1.jpg"
+        },
+        {
+          "id": 6,
+          "name": "7",
+          "photo": "/songImg/david2.jpg"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "artistName": "Luis Fonsi",
+      "poster": "/songImg/a13.jpg",
+      "monthlyListeners": 3000000,
+      "genre": "Reggaeton, Latin",
+      "yearsActive": "1994–present",
+      "songsPublished": 150,
+      "popularSongs": [
+        {
+          "songName": "Échame la Culpa",
+          "numberOfListens": 20000000,
+          "photo": "/songImg/ech.jpg",
+          "id": 1,
+          "artistName": "Luis Fonsi"
+        },
+        {
+          "songName": "Despacito",
+          "numberOfListens": 65000000,
+          "photo": "/songImg/des.jpg",
+          "id": 2
+        },
+        {
+          "songName": "San Juan",
+          "numberOfListens": 14000000,
+          "photo": "/songImg/san.jpg",
+          "id": 3
+        },
+        {
+          "songName": "Tanto",
+          "numberOfListens": 9500000,
+          "photo": "/songImg/tanto.jpg",
+          "id": 4
+        }
+      ],
+      "albums": [
+        {
+          "id": 5,
+          "name": "Barrio Fino",
+          "photo": "/songImg/luis1.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Legendaddy",
+          "photo": "/songImg/luis2.jpg"
+        }
+      ]
+    }
+  ],
+  "allPlayList": [
+    {
+      "pid": 1,
+      "pname": "Mind Fresh KR",
+      "playlist": [
+        {
+          "id": "02_snap",
+          "number": "02",
+          "songName": "SNAP",
+          "artist": "Sona Linn",
+          "poster": "/songImg/02_snap.jpg",
+          "index": 2
+        },
+        {
+          "id": "03_thou",
+          "number": "03",
+          "songName": "A Thousand Years",
+          "artist": "Christiana Perri",
+          "poster": "/songImg/03_thou.jpg",
+          "index": 3
+        }
+      ]
+    },
+    {
+        "pid": 1,
+      "pname": "Mind Fresh KR",
+      "playlist": [
+        {
+          "id": "02_snap",
+          "number": "02",
+          "songName": "SNAP",
+          "artist": "Sona Linn",
+          "poster": "/songImg/02_snap.jpg",
+          "index": 2
+        },
+        {
+          "id": "03_thou",
+          "number": "03",
+          "songName": "A Thousand Years",
+          "artist": "Christiana Perri",
+          "poster": "/songImg/03_thou.jpg",
+          "index": 3
+        }
+      ]
+    }
+  ]
+}

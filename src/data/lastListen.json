@@ -1,0 +1,146 @@
+{
+  "songitem": [
+    {
+      "id": "01_dan",
+      "number": "01",
+      "songName": "Dandelion",
+      "artist": "Ruth B.",
+      "poster": "/songImg/01_dan.jpg",
+      "index": 1 
+      
+    },
+    {
+      "id": "02_snap",
+      "number": "02",
+      "songName": "SNAP",
+      "artist": "Sona Linn",
+      "poster": "/songImg/02_snap.jpg",
+      "index": 2
+    },
+    {
+      "id": "03_thou",
+      "number": "03",
+      "songName": "A Thousand Years",
+      "artist": "Christiana Perri",
+      "poster": "/songImg/03_thou.jpg",
+      "index": 3
+    },
+    {
+      "id": "04_love",
+      "number": "04",
+      "songName": "Love Story",
+      "artist": "Tylor Swift",
+      "poster": "/songImg/04_love.jpg",
+      "index": 4,
+      "artistIndex" : 8
+    },
+    {
+      "id": "05_shape",
+      "number": "05",
+      "songName": "Shape of You",
+      "artist": "Ed Sheeran",
+      "poster": "/songImg/05_shape.jpg",
+      "index": 5,
+      "artistIndex" :7
+    },
+    {
+      "id": "06_intension",
+      "number": "06",
+      "songName": "Intesnion",
+      "artist": "Justin Bieber",
+      "poster": "/songImg/06_intension.jpg",
+      "index": 6,
+      "artistIndex" :3
+    },
+    {
+      "id": "07_sorry",
+      "number": "07",
+      "songName": "Sorry",
+      "artist": "Justin Bieber",
+      "poster": "/songImg/07_sorry.jpg",
+      "index": 7,
+      "artistIndex" :3
+    },
+    {
+      "id": "08_un",
+      "number": "08",
+      "songName": "Unforgettable",
+      "artist": "French Monthana",
+      "poster": "/songImg/08_un.jpg",
+      "index": 8
+    }
+  ],
+  "songitem2": [
+    {
+      "id": "11_we",
+      "songName": "We Don't Talk",
+      "artist": "Charlie Puth",
+      "poster": "/songImg/11_we.jpg"
+    },
+    {
+      "id": "12_friends",
+      "songName": "FRIENDS",
+      "artist": "Marshmello",
+      "poster": "/songImg/12_friends.jpg",
+      "artistIndex" :1
+    },
+    {
+      "id": "13_what",
+      "songName": "What if (I told)",
+      "artist": "Jhony Ornaldo",
+      "poster": "/songImg/13_what.jpg"
+    },
+    {
+      "id": "14_selfish",
+      "songName": "Selfish Love",
+      "artist": "DJ Snake",
+      "poster": "/songImg/14_selfish.jpg",
+      "artistIndex" :5
+    },
+    {
+      "id": "15_baby",
+      "songName": "Baby",
+      "artist": "Justin Beiber",
+      "poster": "/songImg/15_baby.jpg",
+      "artistIndex" :3
+    },
+    {
+      "id": "16_chaleya",
+      "songName": "Chaleya",
+      "artist": "Arijit Singh",
+      "poster": "/songImg/16_chaleya.jpg"
+    },
+    {
+      "id": "17_stay",
+      "songName": "STAY",
+      "artist": "The Kid LAROI",
+      "poster": "/songImg/17_stay.jpg"
+    },
+    {
+      "id": "18_yummy",
+      "songName": "Yummy",
+      "artist": "Justin Bieber",
+      "poster": "/songImg/18_yummy.jpg",
+      "artistIndex" :3
+    },
+    {
+      "id": "19_let",
+      "songName": "Let Me Love You",
+      "artist": "Justin Bieber",
+      "poster": "/songImg/19_let.jpg",
+      "artistIndex" :3
+    },
+    {
+      "id": "20_maiya",
+      "songName": "Maiya Mennu",
+      "artist": "Sachet Tandon",
+      "poster": "/songImg/20_maiya.jpg"
+    },
+    {
+      "id": "21_kaise",
+      "songName": "Kaise Hua",
+      "artist": "Vishal Mishra",
+      "poster": "/songImg/21_kaise.jpg"
+    }
+  ]
+}
